@@ -1,1 +1,4 @@
 #git status
+
+#git add index.html (single file track)
+#git add -A (All file track)
